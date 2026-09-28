@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Emanuelle Santos 👋
 
-<!--
-**emanuelle-santos/emanuelle-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do Ensino Médio e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software e desenvolvimento web.
 
-Here are some ideas to get you started:
+Atualmente estou:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estudando lógica de programação e fundamentos de desenvolvimento web;
+- desenvolvendo projetos práticos para aplicar meus conhecimentos;
+- aprendendo e explorando diferentes tecnologias da programação;
+- buscando minha primeira oportunidade profissional na área de tecnologia.
+
+## Tecnologias
+
+- Lógica de Programação
+- HTML
+- CSS
+- JavaScript
+
+## Projetos em destaque
+
+### Loja Virtual
+
+Landing page desenvolvida como projeto prático para aplicar conhecimentos de desenvolvimento web e criar uma presença digital para uma marca.
+
+[https://github.com/emanuelle-santos/loja-virtual](https://github.com/emanuelle-santos/loja-virtual)
+
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/emanuelle-santos-087906411/)
+- E-mail: emanuellemoraesantos@gmail.com
